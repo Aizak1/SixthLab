@@ -1,0 +1,7 @@
+D:\c#projects\SixthLab\SixthLab\bin\Debug\SixthLab.exe.config
+D:\c#projects\SixthLab\SixthLab\bin\Debug\SixthLab.exe
+D:\c#projects\SixthLab\SixthLab\bin\Debug\SixthLab.pdb
+D:\c#projects\SixthLab\SixthLab\obj\Debug\Task2.csprojAssemblyReference.cache
+D:\c#projects\SixthLab\SixthLab\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\c#projects\SixthLab\SixthLab\obj\Debug\SixthLab.exe
+D:\c#projects\SixthLab\SixthLab\obj\Debug\SixthLab.pdb
